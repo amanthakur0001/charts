@@ -13,6 +13,7 @@ jobs:
         chart-name:
           - my-first-chart
           - my-second-chart
+          - my-third-chart
     steps:
       - name: Checkout
         uses: actions/checkout@v3

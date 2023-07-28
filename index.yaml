@@ -25,6 +25,20 @@ entries:
   my-test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-07-28T11:48:58.242567231Z"
+    description: A Helm chart for Kubernetes
+    digest: fd18b2e04bf2e1e11adf46e21a954d6a3b42fe786c72462a0df34163aa7dd1b9
+    maintainers:
+    - email: amanthakur0001@gmail.com
+      name: amanthakur0001
+      url: amanthakur0001.github.io/charts
+    name: my-test-chart
+    type: application
+    urls:
+    - https://github.com/amanthakur0001/charts/releases/download/my-test-chart-0.2.0/my-test-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-07-28T11:30:22.298488401Z"
     description: A Helm chart for Kubernetes
     digest: 03a0ff875ea72d2580311f154fdc0ecbcb28e624bbbbc705ec0fa6b1c3ea621f
@@ -52,4 +66,4 @@ entries:
     urls:
     - https://github.com/amanthakur0001/charts/releases/download/my-third-chart-0.1.0/my-third-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-28T11:30:22.298492801Z"
+generated: "2023-07-28T11:48:58.242575331Z"

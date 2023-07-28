@@ -1,0 +1,3 @@
+replicaCount: 5
+port: 8080
+namespace: default

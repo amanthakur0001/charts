@@ -22,4 +22,19 @@ entries:
     urls:
     - github.com/amanthakur0001/charts/my-second-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-28T10:07:53.2372476Z"
+  my-third-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-28T11:06:46.734446154Z"
+    description: A Helm chart for Kubernetes
+    digest: e80d85536d531484a9785d4c8a2728eff96286784a49b6472d996f7c9cfe7c15
+    maintainers:
+    - email: amanthakur0001@gmail.com
+      name: amanthakur0001
+      url: amanthakur0001.github.io/charts
+    name: my-third-chart
+    type: application
+    urls:
+    - https://github.com/amanthakur0001/charts/releases/download/my-third-chart-0.1.0/my-third-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-28T11:06:46.734453754Z"
